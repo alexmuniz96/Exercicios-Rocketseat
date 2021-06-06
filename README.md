@@ -9,9 +9,12 @@ Esse projeto é a resolução de um exercício do guia de Javascript da [Rockets
 * entre 60 - 69 - D
 * menor que 60 - F
 
-# 2 - Conversor de temperatura 
+# 2- Conversor de temperatura 
 
 É um conversor de temperatura, que converte de **Celsius** para **Fahnreit**, através de um função que **recebe uma string** e identifica o tipo de temperatura e converte para a outra.
+<<<<<<< HEAD
 
 # 3- Sistema de gastos familiar
 Mini sistema de gastos familiar que verifica o **saldo** dentro de um objeto com 2 propriedades do tipo array é **positivo** ou **negativo**
+=======
+>>>>>>> 7b7941bdde86f2d2fea4fef60c869caee0891328
