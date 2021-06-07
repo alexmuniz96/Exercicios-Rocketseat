@@ -15,3 +15,13 @@ Esse projeto é a resolução de um exercício do guia de Javascript da [Rockets
 
 # 3- Sistema de gastos familiar
 Mini sistema de gastos familiar que verifica o **saldo** dentro de um objeto com 2 propriedades do tipo array é **positivo** ou **negativo**
+
+# 4- Buscando e contando dados no array
+
+O Objetivo desse mini projeto é buscar e contar alguns dados dentro do array, esse array possui duas categorias de jogos, e dentro dessa categoria o título e a desenvolvedora do jogo, e baseado nisso deveria ser feito as seguintes coisas:
+
+ - Encontar o número de categorias
+ - Encontrar o número de jogos em cada categoria
+ - Encontrar o número de desenvolvedores
+ - Mostrar somente os jogos da Desenvolvedora Respawn Entertainment
+ - Receber o nome da Desenvolvedora e mostrar somente os jogos da mesma
